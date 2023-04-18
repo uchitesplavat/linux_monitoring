@@ -80,4 +80,7 @@ Opening the web interface of the utility on the local machine.
 
 ## Part 8. A ready-made dashboard
 
+![linux_monitoring](src/08/net.png)
+![linux_monitoring](src/08/stress.png)
+
 ## Part 9. Bonus. My own *node_exporter*

@@ -84,3 +84,12 @@ Opening the web interface of the utility on the local machine.
 ![linux_monitoring](src/08/stress.png)
 
 ## Part 9. Bonus. My own *node_exporter*
+
+![linux_monitoring](src/09/prometheus_yml.png)
+![linux_monitoring](src/09/metrics_nginx.png)
+![linux_monitoring](src/09/html.png)
+![linux_monitoring](src/09/cpu_usage.png)
+![linux_monitoring](src/09/disk_usage.png)
+![linux_monitoring](src/09/total_memory.png)
+![linux_monitoring](src/09/used_memory.png)
+

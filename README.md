@@ -75,6 +75,9 @@ Opening the web interface of the utility on the local machine.
 
 ## Part 7. **Prometheus** and **Grafana**
 
+![linux_monitoring](src/mem.png)
+![linux_monitoring](src/stress.png)
+
 ## Part 8. A ready-made dashboard
 
 ## Part 9. Bonus. My own *node_exporter*

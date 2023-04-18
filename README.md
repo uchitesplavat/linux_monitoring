@@ -75,8 +75,8 @@ Opening the web interface of the utility on the local machine.
 
 ## Part 7. **Prometheus** and **Grafana**
 
-![linux_monitoring_v2](src/mem.png)
-![linux_monitoring_v2](src/stress.png)
+![linux_monitoring](src/07/mem.png)
+![linux_monitoring](src/07/stress.png)
 
 ## Part 8. A ready-made dashboard
 
